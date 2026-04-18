@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260416171927MR37CD</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260416171927QRGQRM</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¡Nos divertimos con GPS Orienteering App!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776352748548</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo1mk8tq-0szqcya4r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Smartphones con uso educativo</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Smartphones con uso educativo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Smartphones con uso educativo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1mk8tq-0szqcya4r</odePageId>
+      <odeBlockId>20251106111051WIPFWT</odeBlockId>
+      <blockName>¡Nos divertimos con GPS Orienteering App!</blockName>
+      <iconName>icon_objective</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1mk8tq-0szqcya4r</odePageId>
+          <odeBlockId>20251106111051WIPFWT</odeBlockId>
+          <odeIdeviceId>20251106101741DUABNY</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Exploramos un uso <strong>educo-deportivo</strong> de nuestro teléfono móvil a través de las carreras de orientación deportiva utilizando balizas virtuales.</p>
+<p>Para ello, utilizaremos la <strong>APP GPS ORIENTEERING</strong>, disponible de manera gratuita tanto en <a href="https://play.google.com/store/apps/details?id=se.hippsomapp.gpsorientering&hl=es"><strong>GOOGLE PLAY de Android</strong></a> como en <strong><a href="https://apps.apple.com/es/app/gps-orienteering/id1555855545">APPS de los dispositivos Apple</a></strong>.</p>
+<figure class="exe-figure exe-image license-pd position-center" style="width: 240px;"><img src="{{context_path}}/content/resources/20251106101741DUABNY/img0.png" alt="" width="240" height="240" />
+<figcaption class="figcaption"><span class="title"><em>Logo GPS Orienteering App</em></span> <span class="license"><span class="sep">(</span><span>Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251106101741DUABNY","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p>Exploramos un uso <strong>educo-deportivo</strong> de nuestro teléfono móvil a través de las carreras de orientación deportiva utilizando balizas virtuales.</p>\n<p>Para ello, utilizaremos la <strong>APP GPS ORIENTEERING</strong>, disponible de manera gratuita tanto en <a href=\"https://play.google.com/store/apps/details?id=se.hippsomapp.gpsorientering&hl=es\"><strong>GOOGLE PLAY de Android</strong></a> como en <strong><a href=\"https://apps.apple.com/es/app/gps-orienteering/id1555855545\">APPS de los dispositivos Apple</a></strong>.</p>\n<figure class=\"exe-figure exe-image license-pd position-center\" style=\"width: 240px;\"><img src=\"{{context_path}}/content/resources/20251106101741DUABNY/img0.png\" alt=\"\" width=\"240\" height=\"240\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Logo GPS Orienteering App</em></span> <span class=\"license\"><span class=\"sep\">(</span><span>Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1mk8tq-0szqcya4r</odePageId>
+      <odeBlockId>20251106111051UKBMEU</odeBlockId>
+      <blockName>DESCRIPCIÓN</blockName>
+      <iconName>icon_reading</iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1mk8tq-0szqcya4r</odePageId>
+          <odeBlockId>20251106111051UKBMEU</odeBlockId>
+          <odeIdeviceId>20251106101741BUFXEW</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/20251106101741BUFXEW/Mapa_Mental_Esquema_Visual_con_Notas_a_Mano_Simple_Amarillo_y_Negro.png" alt="" width="1920" height="1080" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251106101741BUFXEW","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/20251106101741BUFXEW/Mapa_Mental_Esquema_Visual_con_Notas_a_Mano_Simple_Amarillo_y_Negro.png\" alt=\"\" width=\"1920\" height=\"1080\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1mk8tu-2cpb8fxjj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1mk8tu-2cpb8fxjj</odePageId>
+      <odeBlockId>20251106111051SLYWWJ</odeBlockId>
+      <blockName>Justificación de su desarrollo.</blockName>
+      <iconName>icon_task</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1mk8tu-2cpb8fxjj</odePageId>
+          <odeBlockId>20251106111051SLYWWJ</odeBlockId>
+          <odeIdeviceId>20251106101741ZKTDPW</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>La utilización de la aplicación <a href="https://gpso.se/" target="_blank" rel="noopener"><strong>GPS Orienteering</strong></a> con el alumnado de 4º de ESO supone una forma diferente y <strong>motivadora</strong> de trabajar los contenidos relacionados con la orientación. A través del uso de esta herramienta digital, el alumnado puede experimentar de manera práctica y autónoma lo aprendido en clase, combinando la actividad física con el uso de la tecnología.</p>
+<p>Este tipo de propuestas resultan especialmente adecuadas para esta etapa, ya que <strong>conectan con los intereses del alumnado y fomentan una participación más activa</strong>. El uso del GPS les permite enfrentarse a pequeños retos de orientación en entornos reales, tomar decisiones, trabajar en grupo y reflexionar sobre las estrategias utilizadas, favoreciendo así un aprendizaje más significativo y vivencial.</p>
+<p>Desde el punto de vista curricular, la actividad se enmarca dentro del bloque de actividades en el medio natural, y además permite relacionar contenidos de otras materias, como Geografía, Matemáticas o Tecnología. De esta forma, se promueve un <strong>enfoque más global e interdisciplinar</strong> del aprendizaje.</p>
+<p>Por otro lado, el uso de la app contribuye a desarrollar la<strong> Competencia Digital</strong>, ya que enseña al alumnado a utilizar el móvil como una herramienta educativa y no solo recreativa, favoreciendo un uso responsable y seguro de la tecnología. Sin olvidar, que esta competencia es quizá una de las más <em>"olvidadas</em><em>"</em> desde la materia de Educación Física.</p>
+<p>En definitiva, <strong>GPS Orienteering</strong> ofrece una manera actual y atractiva de trabajar la orientación, potenciando tanto las capacidades físicas como las cognitivas y sociales del alumnado, y conectando el aprendizaje con su realidad cotidiana.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251106101741ZKTDPW","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p>La utilización de la aplicación <a href=\"https://gpso.se/\" target=\"_blank\" rel=\"noopener\"><strong>GPS Orienteering</strong></a> con el alumnado de 4º de ESO supone una forma diferente y <strong>motivadora</strong> de trabajar los contenidos relacionados con la orientación. A través del uso de esta herramienta digital, el alumnado puede experimentar de manera práctica y autónoma lo aprendido en clase, combinando la actividad física con el uso de la tecnología.</p>\n<p>Este tipo de propuestas resultan especialmente adecuadas para esta etapa, ya que <strong>conectan con los intereses del alumnado y fomentan una participación más activa</strong>. El uso del GPS les permite enfrentarse a pequeños retos de orientación en entornos reales, tomar decisiones, trabajar en grupo y reflexionar sobre las estrategias utilizadas, favoreciendo así un aprendizaje más significativo y vivencial.</p>\n<p>Desde el punto de vista curricular, la actividad se enmarca dentro del bloque de actividades en el medio natural, y además permite relacionar contenidos de otras materias, como Geografía, Matemáticas o Tecnología. De esta forma, se promueve un <strong>enfoque más global e interdisciplinar</strong> del aprendizaje.</p>\n<p>Por otro lado, el uso de la app contribuye a desarrollar la<strong> Competencia Digital</strong>, ya que enseña al alumnado a utilizar el móvil como una herramienta educativa y no solo recreativa, favoreciendo un uso responsable y seguro de la tecnología. Sin olvidar, que esta competencia es quizá una de las más <em>\"olvidadas</em><em>\"</em> desde la materia de Educación Física.</p>\n<p>En definitiva, <strong>GPS Orienteering</strong> ofrece una manera actual y atractiva de trabajar la orientación, potenciando tanto las capacidades físicas como las cognitivas y sociales del alumnado, y conectando el aprendizaje con su realidad cotidiana.</p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1mk8tu-2cpb8fxjj</odePageId>
+      <odeBlockId>20251106111051GAUCKC</odeBlockId>
+      <blockName>Impacto esperado en los estudiantes de 4º de ESO</blockName>
+      <iconName>icon_cabinet</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1mk8tu-2cpb8fxjj</odePageId>
+          <odeBlockId>20251106111051GAUCKC</odeBlockId>
+          <odeIdeviceId>20251106101741JKKAQZ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/20251106101741JKKAQZ/Modern_Project_Management_Process_Infographic_Graph.png" alt="" width="1024" height="768" style="display: block; margin-left: auto; margin-right: auto;" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251106101741JKKAQZ","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p><img src=\"{{context_path}}/content/resources/20251106101741JKKAQZ/Modern_Project_Management_Process_Infographic_Graph.png\" alt=\"\" width=\"1024\" height=\"768\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1mk8tu-2cpb8fxjj</odePageId>
+      <odeBlockId>20251106111051XIXTTY</odeBlockId>
+      <blockName>Relación de la SdA con los ODS y Retos del siglo XXI.</blockName>
+      <iconName>icon_share</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1mk8tu-2cpb8fxjj</odePageId>
+          <odeBlockId>20251106111051XIXTTY</odeBlockId>
+          <odeIdeviceId>20251106101741DGKARP</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><strong><img src="{{context_path}}/content/resources/20251106101741DGKARP/UN_SDGs_-_All.png" alt="" width="1080" height="1080" style="display: block; margin-left: auto; margin-right: auto;" /></strong></p>
+<p>El 25 de septiembre de 2015, los líderes mundiales adoptaron un conjunto de <strong>objetivos globales</strong> para erradicar la pobreza, proteger el planeta y asegurar la prosperidad para todos como parte de una <strong>nueva agenda de desarrollo sostenible. </strong>Cada objetivo tiene metas específicas que deben alcanzarse en los próximos 15 años, por lo que también es conocida como <strong><a href="https://www.dsca.gob.es/es/agenda-2030/conoce-la-agenda" target="_blank" rel="noopener">Agenda 2030.</a></strong><strong></strong></p>
+<p>De entre los 17 objetivos que conforman los <strong>ODS</strong> esta situación de aprendizaje, enmarcada dentro de la <strong>LOMLOE</strong> y el <strong><a href="https://sede.asturias.es/bopa/2022/09/01/2022-06713.pdf" target="_blank" rel="noopener">Decreto 59/2022 del Principado de Asturias</a></strong>, se relaciona directamente con:</p>
+<table border="1" style="width: 100%; height: 294px;">
+<tbody>
+<tr style="height: 151px;">
+<td style="width: 10.4636%; height: 151px;"><img src="{{context_path}}/content/resources/20251106101741DGKARP/ODS3.jpg" width="150" height="150" style="display: block; margin-left: auto; margin-right: auto;" /></td>
+<td style="width: 89.5364%; height: 151px; text-align: left;">
+<p>Este objetivo tiene como reto el desarrollo de hábitos de vida saludables.</p>
+<p>Desde esta Situación de Aprendizaje se pretende fomentar la actividad física al aire libre, mejorar la salud mental y promover el ejercicio como hábito de vida saludable.</p>
+</td>
+</tr>
+<tr style="height: 143px;">
+<td style="width: 10.4636%; text-align: center; height: 143px;"><img src="{{context_path}}/content/resources/20251106101741DGKARP/ODS4.jpg" alt="" width="150" height="150" /></td>
+<td style="width: 89.5364%; text-align: left; height: 143px;">
+<p>Este objetivo tiene como reto asociado adquirir confianza en el conocimiento como motor del desarrollo personal y social.</p>
+<p>Desde esta situación de aprendizaje tratamos de promover el aprendizaje significativo y el uso de TIC en contextos reales, apoyados sobre una metodología activa.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 10.4636%; text-align: center;"><img src="{{context_path}}/content/resources/20251106101741DGKARP/ODS9.jpg" alt="" width="150" height="150" /></td>
+<td style="width: 89.5364%; text-align: left;">
+<p>Este objetivo tiene como reto asociado usar de manera ética y eficaz las tecnologías.</p>
+<p>Desde esta situación de aprendizaje buscamos usar las tecnologías móviles y sistemas de posicionamiento global aplicadas a la actividad física.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 10.4636%; text-align: center;"><img src="{{context_path}}/content/resources/20251106101741DGKARP/ODS12.jpg" alt="" width="150" height="150" /></td>
+<td style="width: 89.5364%; text-align: left;">
+<p>Este objetivo tiene como reto asociado actuar como consumidores responsables.</p>
+<p>Desde esta situación de aprendizaje tratamos que el alumnado reflexione sobre el impacto ambiental del uso de recursos (ropa técnica, transporte, residuos, etc.) y promover un comportamiento consciente.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 10.4636%; text-align: center;"><img src="{{context_path}}/content/resources/20251106101741DGKARP/ODS15.jpg" alt="" width="150" height="150" /></td>
+<td style="width: 89.5364%; text-align: left;">
+<p>Este objetivo tiene como reto asociado proteger el medio ambiente y la vida animal.</p>
+<p>Desde esta situación de aprendizaje priorizamos inculcar el respeto por el medio ambiente y la necesidad de conservarlo al transformarlo en un lugar de disfrute, tanto de la actividad física en el ámbito educativo como personal y social.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251106101741DGKARP","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p><strong><img src=\"{{context_path}}/content/resources/20251106101741DGKARP/UN_SDGs_-_All.png\" alt=\"\" width=\"1080\" height=\"1080\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong></p>\n<p>El 25 de septiembre de 2015, los líderes mundiales adoptaron un conjunto de <strong>objetivos globales</strong> para erradicar la pobreza, proteger el planeta y asegurar la prosperidad para todos como parte de una <strong>nueva agenda de desarrollo sostenible. </strong>Cada objetivo tiene metas específicas que deben alcanzarse en los próximos 15 años, por lo que también es conocida como <strong><a href=\"https://www.dsca.gob.es/es/agenda-2030/conoce-la-agenda\" target=\"_blank\" rel=\"noopener\">Agenda 2030.</a></strong><strong></strong></p>\n<p>De entre los 17 objetivos que conforman los <strong>ODS</strong> esta situación de aprendizaje, enmarcada dentro de la <strong>LOMLOE</strong> y el <strong><a href=\"https://sede.asturias.es/bopa/2022/09/01/2022-06713.pdf\" target=\"_blank\" rel=\"noopener\">Decreto 59/2022 del Principado de Asturias</a></strong>, se relaciona directamente con:</p>\n<table border=\"1\" style=\"width: 100%; height: 294px;\">\n<tbody>\n<tr style=\"height: 151px;\">\n<td style=\"width: 10.4636%; height: 151px;\"><img src=\"{{context_path}}/content/resources/20251106101741DGKARP/ODS3.jpg\" width=\"150\" height=\"150\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n<td style=\"width: 89.5364%; height: 151px; text-align: left;\">\n<p>Este objetivo tiene como reto el desarrollo de hábitos de vida saludables.</p>\n<p>Desde esta Situación de Aprendizaje se pretende fomentar la actividad física al aire libre, mejorar la salud mental y promover el ejercicio como hábito de vida saludable.</p>\n</td>\n</tr>\n<tr style=\"height: 143px;\">\n<td style=\"width: 10.4636%; text-align: center; height: 143px;\"><img src=\"{{context_path}}/content/resources/20251106101741DGKARP/ODS4.jpg\" alt=\"\" width=\"150\" height=\"150\" /></td>\n<td style=\"width: 89.5364%; text-align: left; height: 143px;\">\n<p>Este objetivo tiene como reto asociado adquirir confianza en el conocimiento como motor del desarrollo personal y social.</p>\n<p>Desde esta situación de aprendizaje tratamos de promover el aprendizaje significativo y el uso de TIC en contextos reales, apoyados sobre una metodología activa.</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 10.4636%; text-align: center;\"><img src=\"{{context_path}}/content/resources/20251106101741DGKARP/ODS9.jpg\" alt=\"\" width=\"150\" height=\"150\" /></td>\n<td style=\"width: 89.5364%; text-align: left;\">\n<p>Este objetivo tiene como reto asociado usar de manera ética y eficaz las tecnologías.</p>\n<p>Desde esta situación de aprendizaje buscamos usar las tecnologías móviles y sistemas de posicionamiento global aplicadas a la actividad física.</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 10.4636%; text-align: center;\"><img src=\"{{context_path}}/content/resources/20251106101741DGKARP/ODS12.jpg\" alt=\"\" width=\"150\" height=\"150\" /></td>\n<td style=\"width: 89.5364%; text-align: left;\">\n<p>Este objetivo tiene como reto asociado actuar como consumidores responsables.</p>\n<p>Desde esta situación de aprendizaje tratamos que el alumnado reflexione sobre el impacto ambiental del uso de recursos (ropa técnica, transporte, residuos, etc.) y promover un comportamiento consciente.</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 10.4636%; text-align: center;\"><img src=\"{{context_path}}/content/resources/20251106101741DGKARP/ODS15.jpg\" alt=\"\" width=\"150\" height=\"150\" /></td>\n<td style=\"width: 89.5364%; text-align: left;\">\n<p>Este objetivo tiene como reto asociado proteger el medio ambiente y la vida animal.</p>\n<p>Desde esta situación de aprendizaje priorizamos inculcar el respeto por el medio ambiente y la necesidad de conservarlo al transformarlo en un lugar de disfrute, tanto de la actividad física en el ámbito educativo como personal y social.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1mk8tv-w8gqnx8ba</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1mk8tv-w8gqnx8ba</odePageId>
+      <odeBlockId>20251106111051UPKPTF</odeBlockId>
+      <blockName>COMPETENCIAS CLAVE </blockName>
+      <iconName>icon_info</iconName>
+      <odePagStructureOrder>25</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1mk8tv-w8gqnx8ba</odePageId>
+          <odeBlockId>20251106111051UPKPTF</odeBlockId>
+          <odeIdeviceId>20251106101741OXYCGJ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text"><table border="1" style="width: 100%; height: 314px;">
+<tbody>
+<tr style="height: 118px;">
+<td style="width: 88.4473%; height: 118px;"><strong>Competencia en Comunicación Lingüística (CCL):&nbsp;</strong>la situación de aprendizaje promueve el desarrollo de esta competencia al requerir que el alumnado se exprese con claridad para planificar estrategias, interpretar instrucciones y comunicarse eficazmente con los compañeros durante las pruebas de orientación. Además, el alumnado debe comprender la información escrita y oral relativa al funcionamiento de la app, los mapas o las normas de seguridad, mejorando así su comprensión lectora y su expresión oral en contextos funcionales.</td>
+<td style="width: 11.5527%; height: 118px;"><img src="{{context_path}}/content/resources/20251106101741OXYCGJ/img0.1.png" width="150" height="104" style="display: block; margin-left: auto; margin-right: auto;"></td>
+</tr>
+<tr style="height: 26px;">
+<td style="width: 88.4473%; height: 26px;"><strong>Competencia Matemática y en Ciencia, Tecnología e Ingeniería (STEM):&nbsp;</strong>el uso de la app&nbsp;<em>GPS Orienteering</em> implica la aplicación práctica de conocimientos matemáticos (coordenadas, distancias, tiempos y orientación espacial), junto con la comprensión del funcionamiento tecnológico del GPS. El alumnado desarrolla el pensamiento lógico y la resolución de problemas en contextos reales, comprendiendo cómo la ciencia y la tecnología pueden aplicarse para mejorar la vida cotidiana y la práctica deportiva. Asimismo, se potencia la curiosidad científica y el aprendizaje basado en la experimentación y la exploración del entorno.</td>
+<td style="width: 11.5527%; height: 26px;"><img src="{{context_path}}/content/resources/20251106101741OXYCGJ/img1.png" width="149" height="113" style="display: block; margin-left: auto; margin-right: auto;"></td>
+</tr>
+<tr style="height: 118px;">
+<td style="width: 88.4473%; height: 118px;"><strong>Competencia Personal, Social y de Aprender a Aprender (CPSAA):&nbsp;</strong>la actividad fomenta la autonomía y la autorregulación, al enfrentarse el alumnado a retos que exigen concentración, gestión emocional y superación personal. El trabajo cooperativo promueve la empatía, la asertividad y la responsabilidad compartida, mientras que la reflexión posterior sobre las estrategias utilizadas impulsa el aprendizaje autorregulado y significativo.</td>
+<td style="width: 11.5527%; height: 118px;"><img src="{{context_path}}/content/resources/20251106101741OXYCGJ/img2.png" width="95" height="118" alt="" style="display: block; margin-left: auto; margin-right: auto;"></td>
+</tr>
+<tr style="height: 26px;">
+<td style="width: 88.4473%; height: 26px;"><strong>Competencia Emprendedora (CE):&nbsp;</strong>durante el desarrollo de la unidad, el alumnado planifica itinerarios, asume responsabilidades y toma decisiones ante imprevistos, mostrando iniciativa y creatividad. La orientación deportiva promueve la capacidad de transformar ideas en acciones concretas, así como la disposición a aprender de los errores y a buscar soluciones eficaces ante los desafíos.</td>
+<td style="width: 11.5527%; height: 26px;"><img src="{{context_path}}/content/resources/20251106101741OXYCGJ/img3.png" width="102" height="118" alt="" style="display: block; margin-left: auto; margin-right: auto;"></td>
+</tr>
+<tr style="height: 26px;">
+<td style="width: 88.4473%; height: 26px;"><strong>Competencia Digital (CD):</strong> la unidad integra de forma natural el uso educativo de la tecnología. El alumnado aprende a manejar la app de geolocalización, interpretar datos digitales y utilizar el móvil como una herramienta de aprendizaje, y no solo de ocio. Además, se promueve la seguridad digital, el pensamiento crítico sobre el uso de la tecnología y la reflexión sobre su papel en la vida activa y saludable.</td>
+<td style="width: 11.5527%; height: 26px;"><img src="{{context_path}}/content/resources/20251106101741OXYCGJ/img4.png" width="102" height="118" alt="" style="display: block; margin-left: auto; margin-right: auto;"></td>
+</tr>
+</tbody>
+</table>
+<p>*Imágenes extraídas del <a href="https://pablodiaztenza.wixsite.com/autor/blog" target="_blank" rel="noopener"><strong>blog</strong></a> de&nbsp;<strong>Pablo J. Díaz Tenza.</strong></p></div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251106101741OXYCGJ","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<table border=\"1\" style=\"width: 100%; height: 314px;\">\n<tbody>\n<tr style=\"height: 118px;\">\n<td style=\"width: 88.4473%; height: 118px;\"><strong>Competencia en Comunicación Lingüística (CCL): </strong>la situación de aprendizaje promueve el desarrollo de esta competencia al requerir que el alumnado se exprese con claridad para planificar estrategias, interpretar instrucciones y comunicarse eficazmente con los compañeros durante las pruebas de orientación. Además, el alumnado debe comprender la información escrita y oral relativa al funcionamiento de la app, los mapas o las normas de seguridad, mejorando así su comprensión lectora y su expresión oral en contextos funcionales.</td>\n<td style=\"width: 11.5527%; height: 118px;\"><img src=\"{{context_path}}/content/resources/20251106101741OXYCGJ/img0.1.png\" width=\"150\" height=\"104\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n<tr style=\"height: 26px;\">\n<td style=\"width: 88.4473%; height: 26px;\"><strong>Competencia Matemática y en Ciencia, Tecnología e Ingeniería (STEM): </strong>el uso de la app <em>GPS Orienteering</em> implica la aplicación práctica de conocimientos matemáticos (coordenadas, distancias, tiempos y orientación espacial), junto con la comprensión del funcionamiento tecnológico del GPS. El alumnado desarrolla el pensamiento lógico y la resolución de problemas en contextos reales, comprendiendo cómo la ciencia y la tecnología pueden aplicarse para mejorar la vida cotidiana y la práctica deportiva. Asimismo, se potencia la curiosidad científica y el aprendizaje basado en la experimentación y la exploración del entorno.</td>\n<td style=\"width: 11.5527%; height: 26px;\"><img src=\"{{context_path}}/content/resources/20251106101741OXYCGJ/img1.png\" width=\"149\" height=\"113\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n<tr style=\"height: 118px;\">\n<td style=\"width: 88.4473%; height: 118px;\"><strong>Competencia Personal, Social y de Aprender a Aprender (CPSAA): </strong>la actividad fomenta la autonomía y la autorregulación, al enfrentarse el alumnado a retos que exigen concentración, gestión emocional y superación personal. El trabajo cooperativo promueve la empatía, la asertividad y la responsabilidad compartida, mientras que la reflexión posterior sobre las estrategias utilizadas impulsa el aprendizaje autorregulado y significativo.</td>\n<td style=\"width: 11.5527%; height: 118px;\"><img src=\"{{context_path}}/content/resources/20251106101741OXYCGJ/img2.png\" width=\"95\" height=\"118\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n<tr style=\"height: 26px;\">\n<td style=\"width: 88.4473%; height: 26px;\"><strong>Competencia Emprendedora (CE): </strong>durante el desarrollo de la unidad, el alumnado planifica itinerarios, asume responsabilidades y toma decisiones ante imprevistos, mostrando iniciativa y creatividad. La orientación deportiva promueve la capacidad de transformar ideas en acciones concretas, así como la disposición a aprender de los errores y a buscar soluciones eficaces ante los desafíos.</td>\n<td style=\"width: 11.5527%; height: 26px;\"><img src=\"{{context_path}}/content/resources/20251106101741OXYCGJ/img3.png\" width=\"102\" height=\"118\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n<tr style=\"height: 26px;\">\n<td style=\"width: 88.4473%; height: 26px;\"><strong>Competencia Digital (CD):</strong> la unidad integra de forma natural el uso educativo de la tecnología. El alumnado aprende a manejar la app de geolocalización, interpretar datos digitales y utilizar el móvil como una herramienta de aprendizaje, y no solo de ocio. Además, se promueve la seguridad digital, el pensamiento crítico sobre el uso de la tecnología y la reflexión sobre su papel en la vida activa y saludable.</td>\n<td style=\"width: 11.5527%; height: 26px;\"><img src=\"{{context_path}}/content/resources/20251106101741OXYCGJ/img4.png\" width=\"102\" height=\"118\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></td>\n</tr>\n</tbody>\n</table>\n<p>*Imágenes extraídas del <a href=\"https://pablodiaztenza.wixsite.com/autor/blog\" target=\"_blank\" rel=\"noopener\"><strong>blog</strong></a> de <strong>Pablo J. Díaz Tenza.</strong></p>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1mk8tv-w8gqnx8ba</odePageId>
+      <odeBlockId>20251106111051QHEXBN</odeBlockId>
+      <blockName>COMPETENCIAS ESPECÍFICAS, CRITERIOS DE EVALUACIÓN Y DESCRIPTORES DEL PERFIL DE SALIDA</blockName>
+      <iconName>icon_collaborative</iconName>
+      <odePagStructureOrder>33</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1mk8tv-w8gqnx8ba</odePageId>
+          <odeBlockId>20251106111051QHEXBN</odeBlockId>
+          <odeIdeviceId>20251106101741PNBDBZ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-image position-center license-CC0" style="width: 3200px;"><img src="{{context_path}}/content/resources/20251106101741PNBDBZ/Tabla_Cuadro_Comparativo_Ilustrativo_Violeta_y_Amarillo.png" alt="" width="3200" height="2400" />
+<figcaption class="figcaption"><span class="author">Fermín Díaz</span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251106101741PNBDBZ","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-image position-center license-CC0\" style=\"width: 3200px;\"><img src=\"{{context_path}}/content/resources/20251106101741PNBDBZ/Tabla_Cuadro_Comparativo_Ilustrativo_Violeta_y_Amarillo.png\" alt=\"\" width=\"3200\" height=\"2400\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Fermín Díaz</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1mk8tv-w8gqnx8ba</odePageId>
+      <odeBlockId>20251106111051OEVZPP</odeBlockId>
+      <blockName>SABERES BÁSICOS</blockName>
+      <iconName>icon_technology</iconName>
+      <odePagStructureOrder>36</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1mk8tv-w8gqnx8ba</odePageId>
+          <odeBlockId>20251106111051OEVZPP</odeBlockId>
+          <odeIdeviceId>20251106101741BBZVPW</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-image position-center license-CC0" style="width: 6000px;"><img src="{{context_path}}/content/resources/20251106101741BBZVPW/Presentacion_de_graficos_visuales_Lluvia_de_Ideas_Esquema_Sencillo_Colorido.png" alt="" width="6000" height="3375" />
+<figcaption class="figcaption"><span class="author">Fermín Díaz</span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251106101741BBZVPW","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-image position-center license-CC0\" style=\"width: 6000px;\"><img src=\"{{context_path}}/content/resources/20251106101741BBZVPW/Presentacion_de_graficos_visuales_Lluvia_de_Ideas_Esquema_Sencillo_Colorido.png\" alt=\"\" width=\"6000\" height=\"3375\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Fermín Díaz</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1mk8tx-5yvdsyjcn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1mk8tx-5yvdsyjcn</odePageId>
+      <odeBlockId>20251106111051DXQMTE</odeBlockId>
+      <blockName>Gamificación</blockName>
+      <iconName>icon_geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1mk8tx-5yvdsyjcn</odePageId>
+          <odeBlockId>20251106111051DXQMTE</odeBlockId>
+          <odeIdeviceId>20251106101741QFVCXT</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure id="figure_imagen_1" class="exe-figure position-center" style="width: 1920px;"><img src="{{context_path}}/content/resources/20251106101741QFVCXT/Gamification_Education_Infographic_in_Blue_and_Yellow_Pixelated_Style.png" width="1920" height="4800" alt="" id="imagen_1" class="imagen_1" />
+<figcaption class="figcaption">Fermín Díaz. <span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" id="license_imagen_1" target="_blanck" rel="noopener">CC0</a><span class="sep">)</span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251106101741QFVCXT","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure id=\"figure_imagen_1\" class=\"exe-figure position-center\" style=\"width: 1920px;\"><img src=\"{{context_path}}/content/resources/20251106101741QFVCXT/Gamification_Education_Infographic_in_Blue_and_Yellow_Pixelated_Style.png\" width=\"1920\" height=\"4800\" alt=\"\" id=\"imagen_1\" class=\"imagen_1\" />\n<figcaption class=\"figcaption\">Fermín Díaz. <span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" id=\"license_imagen_1\" target=\"_blanck\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1mk8tx-5yvdsyjcn</odePageId>
+      <odeBlockId>20251106111051GZKMXT</odeBlockId>
+      <blockName>Flipped Classroom o Aula Invertida</blockName>
+      <iconName>icon_piece</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1mk8tx-5yvdsyjcn</odePageId>
+          <odeBlockId>20251106111051GZKMXT</odeBlockId>
+          <odeIdeviceId>202511061137373185N2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><figure id="figure_imagen_2" class="exe-figure position-center" style="width: 1920px;width: 1920px;"><img src="{{context_path}}/content/resources/202511061137373185N2/INFOGRAFA_Flipped-classroom-dentro-y-fuera-del-aula.pdf.png" width="1920" height="2716" alt="" id="imagen_2" class="imagen_2">
+<figcaption class="figcaption"><a href="https://www.aulaplaneta.com/2015/05/13/infografias/flipped-classroom-dentro-y-fuera-del-aula" id="author_imagen_2" target="_blanck" rel="noopener">Aula Planeta</a>. <span class="sep"> (</span><a href="http://creativecommons.org/licenses/" id="license_imagen_2" target="_blanck" rel="noopener">CC BY-NC-ND</a><span class="sep">)</span></figcaption>
+</figure>
+<p><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202511061137373185N2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure id=\"figure_imagen_2\" class=\"exe-figure position-center\" style=\"width: 1920px;width: 1920px;\"><img src=\"{{context_path}}/content/resources/202511061137373185N2/INFOGRAFA_Flipped-classroom-dentro-y-fuera-del-aula.pdf.png\" width=\"1920\" height=\"2716\" alt=\"\" id=\"imagen_2\" class=\"imagen_2\" />\n<figcaption class=\"figcaption\"><a href=\"https://www.aulaplaneta.com/2015/05/13/infografias/flipped-classroom-dentro-y-fuera-del-aula\" id=\"author_imagen_2\" target=\"_blanck\" rel=\"noopener\">Aula Planeta</a>. <span class=\"sep\"> (</span><a href=\"http://creativecommons.org/licenses/\" id=\"license_imagen_2\" target=\"_blanck\" rel=\"noopener\">CC BY-NC-ND</a><span class=\"sep\">)</span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1mk8tx-5yvdsyjcn</odePageId>
+      <odeBlockId>20251106111051DVXEUC</odeBlockId>
+      <blockName>Aprendizaje Cooperativo</blockName>
+      <iconName>icon_agreement</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1mk8tx-5yvdsyjcn</odePageId>
+          <odeBlockId>20251106111051DVXEUC</odeBlockId>
+          <odeIdeviceId>20251106114532122IVI</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><figure id="figure_imagen_3" class="exe-figure position-center" style="width: 1920px;width: 1920px;width: 800px;"><img src="{{context_path}}/content/resources/20251106114532122IVI/Aprendizaje-cooperativo.png" width="800" height="2000" alt="" id="imagen_3" class="imagen_3">
+<figcaption class="figcaption"><a href="http://vamoscreciendo.com/2019/05/21/las-claves-del-aprendizaje-cooperativo-infografico/" id="author_imagen_3" target="_blanck" rel="noopener">I Kidz English</a>. <span class="sep"> (</span><span id="license_imagen_3">Dominio público</span><span class="sep">)</span></figcaption>
+</figure>
+<p><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251106114532122IVI","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure id=\"figure_imagen_3\" class=\"exe-figure position-center\" style=\"width: 1920px;width: 1920px;width: 800px;\"><img src=\"{{context_path}}/content/resources/20251106114532122IVI/Aprendizaje-cooperativo.png\" width=\"800\" height=\"2000\" alt=\"\" id=\"imagen_3\" class=\"imagen_3\" />\n<figcaption class=\"figcaption\"><a href=\"http://vamoscreciendo.com/2019/05/21/las-claves-del-aprendizaje-cooperativo-infografico/\" id=\"author_imagen_3\" target=\"_blanck\" rel=\"noopener\">I Kidz English</a>. <span class=\"sep\"> (</span><span id=\"license_imagen_3\">Dominio público</span><span class=\"sep\">)</span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1mk8tx-5yvdsyjcn</odePageId>
+      <odeBlockId>20251106111051RMRMUB</odeBlockId>
+      <blockName>Ejemplos</blockName>
+      <iconName>icon_magnifier</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1mk8tx-5yvdsyjcn</odePageId>
+          <odeBlockId>20251106111051RMRMUB</odeBlockId>
+          <odeIdeviceId>20251106114659507K43</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Estas metodologías previamente citadas se darán a lo largo de todo el desarrollo de la situación de aprendizaje. Se indican ejemplos a continuación:</p>
+<p><strong>Flipped Classroom o Aula invertida:</strong> <a href="https://alconorientacion.com/gps-orienteering/" target="_blank" id="link_0" rel="noopener">GPS ORIENTEERING RUN en León.</a></p>
+<p><strong>Gamificación:</strong> trabajo en el aula con dispositivos móviles. <a href="https://www.youtube.com/playlist?list=PLheRjttuuYsJuKVXRGVqx68MwalZIyoPY" target="_blank" id="link_1" rel="noopener">Tutoriales.</a></p>
+<p><strong title="">Aprendizaje Cooperativo:</strong> <a href="https://educastur-my.sharepoint.com/:b:/r/personal/fermindro_educastur_org/Documents/Diaz_Rodriguez_Fermin_B2/MAPA%20IES%20RIO%20TRUBIA%20JPG.pdf?csf=1&web=1&e=eurhgh">mapa del centro</a>.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251106114659507K43","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Estas metodologías previamente citadas se darán a lo largo de todo el desarrollo de la situación de aprendizaje. Se indican ejemplos a continuación:</p>\n<p><strong>Flipped Classroom o Aula invertida:</strong> <a href=\"https://alconorientacion.com/gps-orienteering/\" target=\"_blank\" id=\"link_0\" rel=\"noopener\">GPS ORIENTEERING RUN en León.</a></p>\n<p><strong>Gamificación:</strong> trabajo en el aula con dispositivos móviles. <a href=\"https://www.youtube.com/playlist?list=PLheRjttuuYsJuKVXRGVqx68MwalZIyoPY\" target=\"_blank\" id=\"link_1\" rel=\"noopener\">Tutoriales.</a></p>\n<p><strong title=\"\">Aprendizaje Cooperativo:</strong> <a href=\"https://educastur-my.sharepoint.com/:b:/r/personal/fermindro_educastur_org/Documents/Diaz_Rodriguez_Fermin_B2/MAPA%20IES%20RIO%20TRUBIA%20JPG.pdf?csf=1&web=1&e=eurhgh\">mapa del centro</a>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1mk8tz-u54hpya6l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1mk8tz-u54hpya6l</odePageId>
+      <odeBlockId>20251106111051CMZVMC</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>42</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1mk8tz-u54hpya6l</odePageId>
+          <odeBlockId>20251106111051CMZVMC</odeBlockId>
+          <odeIdeviceId>20251106101741EILNEI</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p>La&nbsp;<strong>vinculación</strong> de esta situación de aprendizaje con los planes, programas y proyectos del centro son claros:</p>
+<ol>
+<li><strong>Programa de Educación y Promoción del Salud:&nbsp;</strong>desde esta situación de aprendizaje se contribuye a que el alumnado vea la actividad física y los deportes como una alternativa óptima, eficaz y saludable de ocupación de su tiempo libre.</li>
+<li><strong>Plan Digital del centro:&nbsp;</strong>se contribuye a que el alumnado descubra las herramientas tecnológica no solo como elementos de ocio sino también de aprendizaje y formación académica así como la utilización de las mismas de manera autónoma y responsable.</li>
+</ol>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251106101741EILNEI","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"\n<p>La <strong>vinculación</strong> de esta situación de aprendizaje con los planes, programas y proyectos del centro son claros:</p>\n<ol>\n<li><strong>Programa de Educación y Promoción del Salud: </strong>desde esta situación de aprendizaje se contribuye a que el alumnado vea la actividad física y los deportes como una alternativa óptima, eficaz y saludable de ocupación de su tiempo libre.</li>\n<li><strong>Plan Digital del centro: </strong>se contribuye a que el alumnado descubra las herramientas tecnológica no solo como elementos de ocio sino también de aprendizaje y formación académica así como la utilización de las mismas de manera autónoma y responsable.</li>\n</ol>\n","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1mk8tz-kavsc5286</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1mk8tz-kavsc5286</odePageId>
+      <odeBlockId>20251106111051GFYCZG</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>45</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1mk8tz-kavsc5286</odePageId>
+          <odeBlockId>20251106111051GFYCZG</odeBlockId>
+          <odeIdeviceId>20251106101741XSJJRA</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p>Se realizan dos salidas complementarias en relación con esta situación de aprendizaje y la orientación deportiva.</p>
+<ol>
+<li><strong>Actividad complementaria</strong> <strong>1: </strong>salida al Parque de Invierno (Oviedo) al final del primer trimestre.</li>
+<li><strong>Actividad complementaria 2:&nbsp;</strong>salida al Parque del Oeste (Oviedo) al final del segundo trimestre.<br></li>
+</ol>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251106101741XSJJRA","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"\n<p>Se realizan dos salidas complementarias en relación con esta situación de aprendizaje y la orientación deportiva.</p>\n<ol>\n<li><strong>Actividad complementaria</strong> <strong>1: </strong>salida al Parque de Invierno (Oviedo) al final del primer trimestre.</li>\n<li><strong>Actividad complementaria 2: </strong>salida al Parque del Oeste (Oviedo) al final del segundo trimestre.<br /></li>\n</ol>\n","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1mk8tz-8i4rkxcr2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Atribución y fichero descargable.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1mk8tz-8i4rkxcr2</odePageId>
+      <odeBlockId>20251106111051KZOZFU</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>icon_download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1mk8tz-8i4rkxcr2</odePageId>
+          <odeBlockId>20251106111051KZOZFU</odeBlockId>
+          <odeIdeviceId>20251106120533151HP0</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table-minimalist" style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<th>Título</th>
+<td style="text-align: left;">¡Nos divertimos con GPS Orienteering App!</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>Orientación Deportiva</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Fermín Díaz Rodríguez</td>
+</tr>
+<tr>
+<th style="text-align: left;">Licencia</th>
+<td style="text-align: center;">creative commons: attribution - share alike 4.0</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#ff0000;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
